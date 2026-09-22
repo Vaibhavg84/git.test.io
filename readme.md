@@ -1,5 +1,3 @@
-title: "Vaibhav Gupta | Principal Engineer"
-layout: default
 # Hi there, I'm Vaibhav Gupta 
 
 ### **Principal Engineer @ Wells Fargo | Enterprise AI & LLM Architect**

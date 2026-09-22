@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I am a **Principal Engineer** with over 17 years of experience building high-volume, enterprise-scale software platforms, microservices, and event-driven architectures. Currently leading **35+ engineering talent across global teams at Wells Fargo**, driving technical innovation across Risk & Compliance technology domains.
+I am a **Principal Engineer** with over 17 years of experience building high-volume, enterprise-scale software platforms, microservices, and event-driven architectures. Currently leading **multiple projects across global teams at Wells Fargo**, driving technical innovation across Risk & Compliance technology domains.
 
 My core focus is on **Enterprise GenAI & LLM Integration**, building agentic AI workflows, Knowledge Graphs, Ontologies, and scalable Retrieval-Augmented Generation (RAG) systems.
 

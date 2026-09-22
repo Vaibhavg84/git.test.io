@@ -59,19 +59,6 @@ My core focus is on **Enterprise GenAI & LLM Integration**, building agentic AI 
 
 ---
 
-## 📊 GitHub & Engineering Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radial&include_all_commits=true&count_private=true" alt="Vaibhav's GitHub Stats" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radial&hide=html,css" alt="Most Used Languages" height="175" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radial" alt="GitHub Streak" />
-</div>
-
----
-
 <div align="center">
   <sub>Designed for Modern Enterprise Engineering | <b>Vaibhav Gupta</b></sub>
 </div>

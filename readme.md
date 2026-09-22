@@ -1,5 +1,6 @@
 ---
-title: ""
+title: "Vaibhav Gupta | Principal Engineer"
+layout: default
 ---
 # Hi there, I'm Vaibhav Gupta 
 

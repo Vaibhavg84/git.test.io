@@ -1,3 +1,6 @@
+---
+title: ""
+---
 # Hi there, I'm Vaibhav Gupta 
 
 ### **Principal Engineer @ Wells Fargo | Enterprise AI & LLM Architect**

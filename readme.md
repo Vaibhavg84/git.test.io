@@ -1,4 +1,4 @@
-# Hi there, I'm Vaibhav Gupta 👋 
+# Hi there, I'm Vaibhav Gupta 
 
 ### **Principal Engineer @ Wells Fargo | Enterprise AI & LLM Architect**
 📍 **Bangalore, India** | 💼 **17+ Years in Tech** | 📧 [vaibhavgupta0445@gmail.com](mailto:vaibhavgupta0445@gmail.com) | 🔗 [LinkedIn Profile](https://linkedin.com/in/vaibhavgupta445)

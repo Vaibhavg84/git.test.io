@@ -1,4 +1,7 @@
-# [git.test.io](https://vaibhavg84.github.io/git.test.io/)
+---
+title: Vaibhav Gupta
+description: Principal Engineer @ Wells Fargo | Enterprise AI & LLM Architect
+---
 
 # Hi there, I’m Vaibhav Gupta
 

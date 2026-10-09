@@ -3,36 +3,45 @@ title: Vaibhav Gupta
 description: Principal Engineer @ Wells Fargo | Enterprise AI & LLM Architect
 ---
 
-# Hi there, I’m Vaibhav Gupta
+# Vaibhav Gupta
 
-### Principal Engineer @ Wells Fargo | Enterprise AI & LLM Architect
+## Principal Engineer @ Wells Fargo | Enterprise AI & LLM Architect
 
-📍 Bangalore, India | 💼 17+ Years in Technology | 📧 [vaibhavgupta0445@gmail.com](mailto:vaibhavgupta0445@gmail.com) | 🔗 [LinkedIn Profile](https://linkedin.com/in/vaibhavgupta445)
+<div align="center">
+  <p>
+    📍 Bangalore, India  •  💼 17+ Years in Technology  •  📧 <a href="mailto:vaibhavgupta0445@gmail.com">vaibhavgupta0445@gmail.com</a>  •  🔗 <a href="https://linkedin.com/in/vaibhavgupta445">LinkedIn Profile</a>
+  </p>
+</div>
 
 ---
 
-## About Me
+## Executive Summary
 
-I am a senior technology leader with 17+ years of experience architecting and delivering high-scale enterprise platforms, cloud-native systems, and AI-powered business solutions. At Wells Fargo, I lead multi-disciplinary engineering efforts spanning risk, compliance, automation, and enterprise AI transformation.
+Principal Engineer with 17+ years of experience delivering enterprise-scale software, digital transformation, and AI-powered platform modernization across high-impact financial and technology environments. At Wells Fargo, I lead complex engineering initiatives focused on enterprise AI adoption, cloud-native architecture, automation, risk and compliance systems, and large-scale technology strategy.
 
-My focus is on building practical, production-ready AI systems that drive measurable business impact — from LLM-enabled developer productivity to intelligent workflow automation, RAG-based knowledge platforms, and enterprise-scale integration architecture.
+I specialize in building production-ready AI systems that bridge business outcomes and engineering execution — including GenAI enablement, agentic workflows, knowledge-driven architectures, and scalable integration patterns for modern enterprises.
 
-- 🤖 Enterprise GenAI strategy and implementation using Azure OpenAI, Google Gemini, and NVIDIA NIM
-- ⚙️ Agentic AI workflows and automation for software delivery, security, and migration acceleration
-- 🧠 Knowledge graphs, ontologies, hybrid RAG architectures, and LLM-based enterprise search
-- 🏗️ Modern engineering leadership across microservices, event-driven systems, and cloud-native delivery
+---
+
+## Leadership & Impact
+
+- Built and scaled enterprise AI capabilities using Azure OpenAI, Google Gemini, and NVIDIA NIM to accelerate developer productivity and innovation
+- Architected agentic automation frameworks for secure CI/CD governance, code quality, vulnerability detection, and migration acceleration
+- Led architecture for resilient risk and compliance platforms handling high-volume, mission-critical financial workflows
+- Partnered across product, engineering, and compliance teams to deliver complex modernization, migration, and platform transformation programs
+- Guided cross-functional teams in building distributed, event-driven, cloud-native systems with strong operational reliability and maintainability
 
 ---
 
 ## Core Expertise
 
-### Artificial Intelligence, GenAI & ML
+### Artificial Intelligence & GenAI
 LLM Integration · Knowledge Graphs & Ontologies · RAG Systems · Agentic AI · LangChain · Prompt Engineering · Azure OpenAI · Google Gemini · NVIDIA NIM · Hugging Face
 
 ### Engineering & Architecture
-C# · .NET Core · Python · TypeScript · REST & SOAP APIs · Microservices · Event-Driven Architecture · Kafka · MQ · Cloud-Native Architecture
+C# · .NET Core · Python · TypeScript · REST & SOAP APIs · Microservices · Event-Driven Architecture · Kafka · MQ · Cloud-Native Design
 
-### Cloud, DevOps & Platform Engineering
+### Cloud, Security & Platform Engineering
 Azure · Pivotal Cloud Foundry (PCF) · OpenShift (OCP) · Docker · GitHub Actions · Artifactory · CloudFormation · Splunk · Elastic APM · SonarQube
 
 ### Data & Integration
@@ -40,12 +49,12 @@ Microsoft SQL Server · MongoDB · SSIS · SSRS · Enterprise Integration Patter
 
 ---
 
-## Highlights
+## Selected Achievements
 
-- Delivered enterprise AI capabilities that improved developer productivity and reduced manual effort across critical engineering workflows
-- Designed and deployed agentic automation for CI/CD governance, vulnerability detection, and security policy enforcement
-- Led architecture for high-availability risk and compliance systems across enterprise platforms
-- Partnered with cross-functional teams to drive large-scale modernization, migration, and technology transformation initiatives
+- Delivered AI-driven engineering solutions that improved operational efficiency and reduced manual effort in enterprise workflows
+- Designed intelligent automation for policy checks, vulnerability triage, and pipeline security enforcement
+- Led end-to-end modernization of high-value enterprise applications with strong focus on scalability, resilience, and governance
+- Enabled enterprise adoption of GenAI through practical, secure, and production-oriented architecture patterns
 
 ---
 
